@@ -13,7 +13,7 @@
  * shows through every column without touching text or accent tokens.
  */
 window.__ModuleLoader__.load({
-  id: '@ferii/dsh-wallpaper',
+  id: '@ferii87/dsh-wallpaper',
   factory(require) {
     const React = require('react')
     const h = React.createElement
@@ -506,7 +506,7 @@ window.__ModuleLoader__.load({
 
         ctx.effect(() => {
           const style = document.createElement('style')
-          style.dataset.plugin = '@ferii/dsh-wallpaper'
+          style.dataset.plugin = '@ferii87/dsh-wallpaper'
           style.textContent = ROW_CSS
           document.head.appendChild(style)
           styleNode = style

@@ -1,4 +1,4 @@
-# ferii-dsh-wallpaper / 背景图片
+# dsh-wallpaper / 背景图片
 
 A background image plugin for the [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (`dsh`) Web UI. Upload a local image once; the Harness host keeps it and paints it behind the window, with four display effects that adapt to light and dark themes.
 
@@ -17,7 +17,7 @@ A background image plugin for the [DeepSeek Harness](https://github.com/deepseek
 npm package:
 
 ```sh
-dsh plugin --profile web add @ferii/dsh-wallpaper
+dsh plugin --profile web add @ferii87/dsh-wallpaper
 ```
 
 GitHub:

@@ -1,5 +1,5 @@
 {
-  "name": "@ferii/dsh-wallpaper",
+  "name": "@ferii87/dsh-wallpaper",
   "version": "1.0.0",
   "type": "module",
   "description": "Background image for the DeepSeek Harness Web UI: upload a local image, keep it on the Harness host, and show it behind the window with original/clear/balanced/soft effects.",
